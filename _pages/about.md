@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Andres Lombana-Bermudez (vVvA)"
+title: "Andres Lombana-Bermudez (vVvA) @ Universidad Javeriana "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Este es el sitio en construcción de los proyectos académicos y creativos de Andres Lombana-Bermudez (vVvA).
+Este es el sitio en construcción de los proyectos académicos y creativos de Andres Lombana-Bermudez en la Universidad Javeriana.
 
 A data-driven personal website
 ======
