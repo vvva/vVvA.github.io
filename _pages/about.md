@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Andres Lombana-Bermudez (aka VvVA)"
+title: "Andres Lombana-Bermudez (vVvA)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the work-in-progress academic website of Andres Lombana-Bermudez (aka vVvA).
+Este es el sitio en construcción de los proyectos académicos y creativos de Andres Lombana-Bermudez (vVvA).
 
 A data-driven personal website
 ======
