@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Este es el sitio en construcción de los proyectos académicos y creativos de Andres Lombana-Bermudez, PhD. 
+[Este es el sitio en construcción de los proyectos académicos y creativos de Andres Lombana-Bermudez, PhD.]
+Andres terminó un doctorado en Estudios de Medios de Comunicación de la Universidad de Texas-Austin (2015) con énfasis en culturas y aprendizajes digitales, y fué postdoc fellow en el Centro Berkman Klein para la Internet y la Sociedad de la Universidad de Harvard (2015-2019).  Andres también realizó una maestría en estudios comparados de medios en el Instituto Tecnológico de Massachusetts (2008) y estudió pregados de Literatura y Ciencia política en la Universidad de los Andes (2001, 2003). De acuerdo con su enfoque transdisciplinar, colaborativo y de múltiples métodos, Andres tiene actualmente varias afiliaciones institucionales y está vinculado a varias redes, proyectos y emprendimientos educativos y de investigación-creación nacionales e internacionales.  
 
 Pontificia Universidad Javeriana
 ======
@@ -23,4 +24,4 @@ Lombana-Bermudez es investigador asociado de ISUR, un nuevo centro de estudios d
 Berkman Klein Center for Internet and Society at Harvard University
 ------
 
-Luego de su trabajo como investigador postdoctoral (fellow) de 2015 an 2019 en el Berkman Klein Center for Internet and Society donde colaboró en varios proyectos de la iniciativa Youth and Media como Coding for All, Digital Citizenship Playlists, Digital Literacy Resource Platform (DLRP), AI and Inclusion, Digitally Connected y Conectados al Sur, Lombana-Bermudez es ahora faculty associate del Berkman Klein Center for Internet and Society. En su nuevo rol de faculty associate Lombana-Bermudez continúa colaborando con Youth and Media y otras iniciativas del Berkman-Klein Center y de su comunidad de fellows, associates, y affiliates. 
+Luego de su trabajo como investigador postdoctoral (fellow) de 2015 a 2019 en el Berkman Klein Center for Internet and Society donde colaboró en varios proyectos de la iniciativa Youth and Media como Coding for All, Digital Citizenship Playlists, Digital Literacy Resource Platform (DLRP), AI and Inclusion, Digitally Connected y Conectados al Sur, Lombana-Bermudez es ahora faculty associate del Berkman Klein Center for Internet and Society. En su nuevo rol de faculty associate Lombana-Bermudez continúa colaborando con Youth and Media y otras iniciativas del Berkman-Klein Center y de su comunidad de fellows, associates, y affiliates. 
