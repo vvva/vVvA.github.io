@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andres Lombana Bermudez"
+title                    : "Andres Lombana-Bermudez"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -86,14 +86,14 @@ author:
   location         : "Bogota, Colombia"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://andreslombana.net"
+  googlescholar    : 
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Andres_Lombana_Bermudez"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           :"alombana"
   facebook         :
   foursquare       :
   github           : "vvva"
@@ -113,8 +113,11 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
-  wikipedia        :
+  youtube          :"doctorfaustroll"
+  wikipedia        :"Lombana"
+  website: ""http://andreslombana.net"
+  blog: "http://andreslombana.net/blog/"
+ 
 
 
 # Reading Files
