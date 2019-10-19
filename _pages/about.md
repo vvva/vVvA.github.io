@@ -14,7 +14,7 @@ Andres terminó un doctorado en Estudios de Medios de Comunicación de la Univer
 Pontificia Universidad Javeriana
 ======
  
-Lombana-Bermudez es profesor asistente en la facultad de Comunicacion y Lenguaje, donde se desempeña como docente de pregrado y posgrado, e investigador en las áreas de ecosistema de medios, desinformación, desigualdades digitales, investigación-creación, y metodologías computacionales. Actualmente tiene a su cargo las clases Signos de la Cultura, Comunicación e Interactivad, Métodos avanzados de investigación y Métodos computacionales para investigación en Comunicación. 
+Lombana-Bermudez es profesor asistente en la facultad de Comunicacion y Lenguaje, donde se desempeña como docente de pregrado y posgrado, e investigador en las áreas de ecosistema de medios, desinformación, desigualdades digitales, alfabetismos mediáticos y metodologías de investigación-creación computacionales. Actualmente tiene a su cargo las clases Signos de la Cultura, Comunicación e Interactivad, Métodos avanzados de investigación y Métodos computacionales para investigación en Comunicación. 
 
 Centro de Internet y Sociedad en Universidad del Rosario (ISUR)
 ======
