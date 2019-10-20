@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-PhD en estudios de medios de comunicación de la Universidad de Texas-Austin (2015). Postdoc fellow del Centro Berkman Klein para la Internet y la Sociedad de la Universidad de Harvard (2015-2019).  MsC en estudios comparados de medios en el Instituto Tecnológico de Massachusetts (2008). Pregados de Literatura y Ciencia política en la Universidad de los Andes (2001, 2003). 
+PhD en estudios de medios de comunicación de la Universidad de Texas-Austin (2015). Postdoc del Centro Berkman Klein para la Internet y la Sociedad de la Universidad de Harvard (2015-2019).  MsC en estudios comparados de medios en el Instituto Tecnológico de Massachusetts (2008). Pregados de literatura y ciencia política en la Universidad de los Andes (2001, 2003). 
 
 Pontificia Universidad Javeriana
 ======
  
-Lombana-Bermudez es profesor asistente en la facultad de Comunicacion y Lenguaje, donde se desempeña como docente de pregrado y posgrado, e investigador en las áreas de ecosistema de medios, desinformación, desigualdades digitales, alfabetismos mediáticos y metodologías de investigación-creación computacionales. Actualmente tiene a su cargo las clases Signos de la Cultura, Comunicación e Interactivad, Métodos avanzados de investigación y Métodos computacionales para investigación en Comunicación. 
+Desde 2019 Lombana-Bermudez es profesor asistente en la Facultad de Comunicacion y Lenguaje de la Universidad Javeriana, donde se desempeña como docente de pregrado y posgrado, y tabién como investigador en las áreas de ecosistema de medios, desinformación, desigualdades digitales y alfabetismos mediáticos. Actualmente tiene a su cargo las clases Signos de la Cultura, Comunicación e Interactivad, Métodos avanzados de investigación y Métodos computacionales para investigación en Comunicación. 
 
 Centro de Internet y Sociedad en Universidad del Rosario (ISUR)
 ======
@@ -23,4 +23,4 @@ Lombana-Bermudez es investigador asociado de ISUR, un nuevo centro de estudios d
 Berkman Klein Center for Internet and Society at Harvard University
 ======
 
-Luego de su trabajo como investigador postdoctoral (fellow) de 2015 a 2019 en el Berkman Klein Center for Internet and Society donde colaboró en varios proyectos de la iniciativa Youth and Media como Coding for All, Digital Citizenship Playlists, Digital Literacy Resource Platform (DLRP), AI and Inclusion, Digitally Connected y Conectados al Sur, Lombana-Bermudez es ahora faculty associate del Berkman Klein Center for Internet and Society. En su nuevo rol de faculty associate Lombana-Bermudez continúa colaborando con Youth and Media y otras iniciativas del Berkman-Klein Center y de su comunidad de fellows, associates, y affiliates. 
+Luego de su trabajo como investigador postdoctoral (fellow) de 2015 a 2019 en el Berkman Klein Center for Internet and Society donde colaboró en varios proyectos de la iniciativa Youth and Media como Coding for All, Digital Citizenship Playlists, Digital Literacy Resource Platform (DLRP), AI and Inclusion, Digitally Connected y Conectados al Sur, Lombana-Bermudez es ahora faculty associate del Berkman Klein Center. En su nuevo rol de faculty associate Lombana-Bermudez continúa colaborando con Youth and Media y otras iniciativas del centro y de su comunidad de fellows, associates, y affiliates. 
