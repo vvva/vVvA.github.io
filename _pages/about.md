@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-PhD en estudios de medios de comunicación de la Universidad de Texas-Austin (2015). Postdoc del Centro Berkman Klein para la Internet y la Sociedad de la Universidad de Harvard (2015-2019).  MsC en estudios comparados de medios en el Instituto Tecnológico de Massachusetts (2008). Pregados de literatura y ciencia política en la Universidad de los Andes (2001, 2003). 
+PhD en estudios de medios de comunicación de la Universidad de Texas-Austin (2015). Postdoc del Centro Berkman Klein para la Internet y la Sociedad de la Universidad de Harvard (2015-2019).  MsC en estudios comparados de medios del Instituto Tecnológico de Massachusetts (2008). Pregados de literatura y ciencia política de la Universidad de los Andes (2001, 2003). 
 
 Pontificia Universidad Javeriana
 ======
