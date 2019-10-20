@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Andres terminó un doctorado en Estudios de Medios de Comunicación de la Universidad de Texas-Austin (2015) con énfasis en culturas y aprendizajes digitales, y fué postdoc fellow en el Centro Berkman Klein para la Internet y la Sociedad de la Universidad de Harvard (2015-2019).  Andres también realizó una maestría en estudios comparados de medios en el Instituto Tecnológico de Massachusetts (2008) y estudió pregados de Literatura y Ciencia política en la Universidad de los Andes (2001, 2003). De acuerdo con su enfoque transdisciplinar, colaborativo y de múltiples métodos, Andres tiene actualmente varias afiliaciones institucionales y está vinculado a varias redes, proyectos y emprendimientos educativos y de investigación-creación nacionales e internacionales.  
+PhD en estudios de medios de comunicación de la Universidad de Texas-Austin (2015). Postdoc fellow del Centro Berkman Klein para la Internet y la Sociedad de la Universidad de Harvard (2015-2019).  MsC en estudios comparados de medios en el Instituto Tecnológico de Massachusetts (2008). Pregados de Literatura y Ciencia política en la Universidad de los Andes (2001, 2003). 
 
 Pontificia Universidad Javeriana
 ======
