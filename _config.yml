@@ -1,4 +1,5 @@
 # Welcome to Jekyll!
+#
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
@@ -6,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andres Lombana-Bermudez"
+title                    : "Andres Lombana Bermudez"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -79,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "vVvA"
+  name             : "andres lombana-bermudez"
   avatar           : "profile.png"
   bio              : "Investigación, diseño y enseñanza de tecnología, medios, cultura y nuevos alfabetismos."
   location         : "Bogota, Colombia"
   employer         :
-  pubmed           : ""
-  googlescholar    : "https://scholar.google.co.in/citations?hl=en&user=3XJ0W1oAAAAJ&view_op=list_works&gmla=AJsN-F4pmUSetKpcW6be1WmZEVxNkn2OC5SBfufKBnTSiVncDqFCYiukc2CCecyR1SJWcf_fX4ky5FB7K_StQDRzwBt-QqkrzKjEhn5vQiEZ_B2OYZVDWAQ#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3D3XJ0W1oAAAAJ%26citation_for_view%3D3XJ0W1oAAAAJ%3A2osOgNQ5qMEC%26tzom%3D300"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://andreslombana.net"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Andres_Lombana_Bermudez"
   uri              :
@@ -112,11 +113,8 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : 
-  wikipedia        : 
-  website: ""http://andreslombana.net"
-  blog: "http://andreslombana.net/blog/"
- 
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files
