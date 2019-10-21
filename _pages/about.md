@@ -13,7 +13,7 @@ PhD en estudios de medios de comunicación de la Universidad de Texas-Austin (20
 Pontificia Universidad Javeriana
 ======
  
-Desde 2019 Lombana-Bermudez es profesor asistente en la Facultad de Comunicacion y Lenguaje de la Universidad Javeriana, donde se desempeña como docente de pregrado y posgrado, y tabién como investigador en las áreas de ecosistema de medios, desinformación, desigualdades digitales y alfabetismos mediáticos. Actualmente tiene a su cargo las clases Signos de la Cultura, Comunicación e Interactivad, Métodos avanzados de investigación y Métodos computacionales para investigación en Comunicación. 
+Desde 2019 Lombana-Bermudez es profesor asistente en la Facultad de Comunicacion y Lenguaje de la Universidad Javeriana, donde se desempeña como docente de pregrado y posgrado, y tabién como investigador en las áreas de ecosistema de medios, desinformación, desigualdades digitales y alfabetismos mediáticos. Actualmente tiene a su cargo las clases Signos de la Cultura, Comunicación e Interactivad, Métodos avanzados de investigación y Métodos computacionales para investigación en comunicación. 
 
 Centro de Internet y Sociedad en Universidad del Rosario (ISUR)
 ======
