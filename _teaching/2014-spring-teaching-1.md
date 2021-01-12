@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Signos de la Cultura"
 collection: teaching
-type: "Undergraduate course"
+type: "Pregrado"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Universidad Javeriana, Departamento de Comunicación"
+date: 2018 
+location: "Bogota, Colombia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+El curso busca definir los elementos que conforman la cultura y tienen sus análisis de observación en los signos que generan las diferencias culturales en distintos grupos humanos. Por tanto, el desarrollo de la presente asignatura empieza por mostrar las características de los signos, las diferencias entre lo individual, lo comunitario y lo social en las culturas y las formas como el mundo se internaliza de acuerdo con las conformaciones y colectividades culturales.
 
 Heading 1
 ======
