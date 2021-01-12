@@ -2,7 +2,7 @@
 title: "Signos de la Cultura"
 collection: teaching
 type: "Pregrado"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2018-teaching-1
 venue: "Universidad Javeriana, Departamento de Comunicación"
 date: 2018 
 location: "Bogota, Colombia"
