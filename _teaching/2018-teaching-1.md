@@ -4,7 +4,7 @@ collection: teaching
 type: "Pregrado"
 permalink: /teaching/2018-teaching-1
 venue: "Universidad Javeriana, Departamento de Comunicación"
-date: 2018 
+date: 2018-01-01 
 location: "Bogota, Colombia"
 ---
 
